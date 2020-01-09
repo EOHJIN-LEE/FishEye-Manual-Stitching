@@ -16,6 +16,8 @@ In order to stitch up a difficult image, I thought that interaction with people 
 -----------------------------------------------------------------------------------------------
 And we've developed it so that you can do manual stitching in the video taken with a regular camera lens, not with fish eye lens.
 -----------------------------------------------------------------------------------------------
+If you don't like the stitching of the images, you can match other features point and try again.
+------------------------------------
 Use it the way you want.
 -----------------------
 
