@@ -20,11 +20,26 @@ Use it the way you want.
 -----------------------
 
 <hr/>   
-  
-Video  
+These are YouTube links, so please right-click and choose a new link.
 ----------------
-[![Video Label](http://img.youtube.com/vi/rZ_eDzY6PoA/maxresdefault.jpg)](https://youtu.be/rZ_eDzY6PoA)  
+<hr/>  
 
-  
-octave range to 0,1
+<hr/>  
+Normal Lens Process  
 ----------------
+[![Normal Lens Process](http://img.youtube.com/vi/rZ_eDzY6PoA/maxresdefault.jpg)](https://youtu.be/rZ_eDzY6PoA)  
+
+Normal Lens Result
+------------------
+[![Normal Lens Result](http://img.youtube.com/vi/iz1SKDxUoUQ/maxresdefault.jpg)](https://youtu.be/iz1SKDxUoUQ)  
+<hr/>  
+<hr/>  
+FishEye Lens Process  
+----------------
+[![Normal Lens Result](http://img.youtube.com/vi/6rGAfbwe7Ag/maxresdefault.jpg)](https://youtu.be/6rGAfbwe7Ag)  
+FishEye Lens Result
+------------------
+[![Normal Lens Result](http://img.youtube.com/vi/vqLRw9020yg/maxresdefault.jpg)](https://youtu.be/vqLRw9020yg)
+<hr/> 
+
+Python 3.6 OpenCV 3.4.0.0
