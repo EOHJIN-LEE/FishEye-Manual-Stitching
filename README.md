@@ -24,19 +24,23 @@ These are YouTube links, so please right-click and choose a new link.
 ----------------
 <hr/>  
 
-<hr/>  
+ 
+
 Normal Lens Process  
 ----------------
 [![NormalLensProcess](http://img.youtube.com/vi/rZ_eDzY6PoA/maxresdefault.jpg)](https://youtu.be/rZ_eDzY6PoA)  
-
+<hr/> 
 Normal Lens Result
 ------------------
 [![NormalLensResult](http://img.youtube.com/vi/iz1SKDxUoUQ/maxresdefault.jpg)](https://youtu.be/iz1SKDxUoUQ)  
 <hr/>  
-<hr/>  
+ 
+
 FishEye Lens Process  
 ----------------
-[![NormalLensResult](http://img.youtube.com/vi/6rGAfbwe7Ag/maxresdefault.jpg)](https://youtu.be/6rGAfbwe7Ag)  
+[![NormalLensResult](http://img.youtube.com/vi/6rGAfbwe7Ag/maxresdefault.jpg)](https://youtu.be/6rGAfbwe7Ag) 
+<hr/> 
+
 FishEye Lens Result
 ------------------
 [![NormalLensResult](http://img.youtube.com/vi/vqLRw9020yg/maxresdefault.jpg)](https://youtu.be/vqLRw9020yg)
