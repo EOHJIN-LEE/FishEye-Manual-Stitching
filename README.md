@@ -30,6 +30,7 @@ Normal Lens Process
 ----------------
 [![NormalLensProcess](http://img.youtube.com/vi/rZ_eDzY6PoA/maxresdefault.jpg)](https://youtu.be/rZ_eDzY6PoA)  
 <hr/> 
+
 Normal Lens Result
 ------------------
 [![NormalLensResult](http://img.youtube.com/vi/iz1SKDxUoUQ/maxresdefault.jpg)](https://youtu.be/iz1SKDxUoUQ)  
