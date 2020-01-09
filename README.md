@@ -19,9 +19,11 @@ And we've developed it so that you can do manual stitching in the video taken wi
 Use it the way you want.
 -----------------------
 
-<hr/>   
+<hr/> 
+
 These are YouTube links, so please right-click and choose a new link.
 ----------------
+
 <hr/>  
 
  
