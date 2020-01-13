@@ -4,7 +4,7 @@ Computer Vision - FishEyeManualSitching
 Description
 ===========
 
-This code is aimed at stitching images of the FishEyeLens(~8mm), NormalLens(30~ 55mm)
+This code is aimed at stitching images of the FishEyeLens( ~ 8mm), NormalLens(30 ~ 55mm)
 ----------------------------------------------
 However, this code must be matched manually, unlike other projects.
 ---------------------------------------------
