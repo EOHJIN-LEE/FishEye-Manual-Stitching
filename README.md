@@ -25,7 +25,7 @@ Use it the way you want.
 
 <hr/>
 
-私がここで作成したコードは、ImageCuttingAndPasteClassとTransformImageClassです。 　　
+私がここで作成したコードは、ImageCuttingAndPasteClassとTransformImageClassです。  
 クリックした点をカットして写真を貼り付けるClassとTransMatrixを利用して画像を変換させるClassです。
 
 
