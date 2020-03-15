@@ -32,23 +32,31 @@ These are YouTube links, so please right-click and choose a new link.
 
 Normal Lens Process  
 ----------------
-[![NormalLensProcess](http://img.youtube.com/vi/rZ_eDzY6PoA/maxresdefault.jpg)](https://youtu.be/rZ_eDzY6PoA)  
-<hr/> 
+<img src="https://user-images.githubusercontent.com/44941601/76693871-5a637980-66af-11ea-857a-a3a7a165ab85.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/44941601/76693886-7404c100-66af-11ea-87c4-3ad80c3a9169.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/44941601/76693905-9696da00-66af-11ea-9e7f-a246b826f212.png" width="300" height="300">
+https://youtu.be/rZ_eDzY6PoA
 
 Normal Lens Result
 ------------------
-[![NormalLensResult](http://img.youtube.com/vi/iz1SKDxUoUQ/maxresdefault.jpg)](https://youtu.be/iz1SKDxUoUQ)  
+<img src="https://user-images.githubusercontent.com/44941601/76693933-c6de7880-66af-11ea-83d3-a2426c59e62f.png">
+https://youtu.be/iz1SKDxUoUQ
+
 <hr/>  
  
 
 FishEye Lens Process  
 ----------------
-[![NormalLensResult](http://img.youtube.com/vi/6rGAfbwe7Ag/maxresdefault.jpg)](https://youtu.be/6rGAfbwe7Ag) 
+<img src="https://user-images.githubusercontent.com/44941601/76693793-7dd9f480-66ae-11ea-8b72-1dae71c16933.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/44941601/76693826-cee9e880-66ae-11ea-80cb-e1b4412798d1.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/44941601/76693841-e5903f80-66ae-11ea-9e15-378451a87792.png" width="300" height="300">                                                                  
+https://youtu.be/6rGAfbwe7Ag
 <hr/> 
 
 FishEye Lens Result
 ------------------
-[![NormalLensResult](http://img.youtube.com/vi/vqLRw9020yg/maxresdefault.jpg)](https://youtu.be/vqLRw9020yg)
+<img src="https://user-images.githubusercontent.com/44941601/76693859-2daf6200-66af-11ea-8895-8f9c67799021.png">
+https://youtu.be/vqLRw9020yg
 <hr/> 
 
 
